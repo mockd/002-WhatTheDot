@@ -18,3 +18,5 @@ Dev dependancies for eslint/prettier
     "prettier": "^1.14.2"
   },
 ```
+
+### React/Gatsby Tweaks
