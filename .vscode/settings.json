@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": false,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#202158",
+        "statusBar.noFolderBackground": "#212121"
+    }
+}

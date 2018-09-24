@@ -1,0 +1,26 @@
+[MESSAGES CONTROL]
+disable=C1801,
+        W0621
+
+[REFACTORING]
+max-nested-blocks=10
+
+[BASIC]
+argument-naming-style=any
+attr-naming-style=any
+class-attribute-naming-style=any
+const-naming-style=any
+function-naming-style=any
+method-naming-style=any
+module-naming-style=any
+variable-naming-style=any
+
+[FORMAT]
+max-line-length=200
+
+[DESIGN]
+max-branches=15
+max-locals=20
+
+[EXCEPTIONS]
+overgeneral-exceptions=
